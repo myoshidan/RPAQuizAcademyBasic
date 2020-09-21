@@ -8,12 +8,12 @@
 
 好きなRPAツールを使って挑戦してみよう！
 
-![pic1](\RPAQuizAcademyBasic\images\README\pic1.png)
+![pic1](RPAQuizAcademyBasic/images/README/pic1.png)
 
-![pic2](\RPAQuizAcademyBasic\images\README\pic2.png)
+![pic2](RPAQuizAcademyBasic/images/README/pic2.png)
 
-![pic3](\RPAQuizAcademyBasic\images\README\pic3.png)
+![pic3](RPAQuizAcademyBasic/images/README/pic3.png)
 
-![pic4](\RPAQuizAcademyBasic\images\README\pic4.png)
+![pic4](RPAQuizAcademyBasic/images/README/pic4.png)
 
-![pic5](\RPAQuizAcademyBasic\images\README\pic5.png)
+![pic5](RPAQuizAcademyBasic/images/README/pic5.png)
